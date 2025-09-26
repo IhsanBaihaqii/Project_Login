@@ -30,7 +30,7 @@
     <h2>Form Login</h2>
     <form action="" method="post">
         Username : <input type="text" name="username" required><br><br>
-        Password : <input type="password" name="paswword" required><br><br>
+        Password : <input type="password" name="password" required><br><br>
         <button type="submit">Login</button>
     </form>
     
